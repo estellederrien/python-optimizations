@@ -1,4 +1,4 @@
-# python-optimizations
+# Operations Research - Python optimizations - Management science.
 Classical Optimizations categories using Cplex, Gekko, Pulp, Google Or Cvxopt and the Excel solver.
 
 Hello, my main python data science was in French language, due to some relocations ambitions, I will publish my
