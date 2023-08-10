@@ -3,3 +3,9 @@ Classical Optimizations categories using Cplex, Gekko, Pulp, Google Or Cvxopt an
 
 Hello, my main python data science was in French language, due to some relocations ambitions, I will publish my
 multiple ordered optimizations notebooks there in the future, in English and Spanish language.
+
+Categorías de optimizaciones clásicas utilizando Cplex, Gekko, Pulp, Google o Cvxopt y el solucionador de Excel.
+
+Hola, mi principal ciencia de datos de python estaba en idioma francés, debido a algunas ambiciones de reubicación, publicaré mis cuadernos de optimizaciones ordenadas múltiples allí en el futuro, en inglés y español.
+
+
