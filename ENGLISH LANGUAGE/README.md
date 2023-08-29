@@ -2,7 +2,7 @@
 Classical Optimizations categories using Cplex, Gekko, Pulp, Google Or Cvxopt and the Excel solver.
 
 Hello, my main python data science was in French language, due to some relocations ambitions, I will publish my
-multiple ordered optimizations notebooks there in the future, in English and Spanish language.
+multiple ordered optimizations notebooks there in the future, in English and Spanish language. Please allow a few weeks before I start uploading the translated python notebooks, It's longer than I expected.
 
 Categorías de optimizaciones clásicas utilizando Cplex, Gekko, Pulp, Google o Cvxopt y el solucionador de Excel.
 
