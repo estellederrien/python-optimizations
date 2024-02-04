@@ -28,8 +28,11 @@ This is not the only field I 'm working on, I also work on Python Maths probabli
 
 # Espanol
 
+Mi idea era crear mis cuadernos también en español, pero, por falta de tiempo, y porque las optimizaciones son las mismas independientemente del idioma, decidí no publicarlos en español, para centrarme solo en las optimizaciones de procesamiento.
+
+Sin embargo, estoy buscando trabajo en un país hispano y podría traducir todo lo que quieras al español.
+
 Categorías de optimizaciones clásicas utilizando Cplex, Gekko, Pulp, Google o Cvxopt y el solucionador de Excel.
 
-Hola, mi principal ciencia de datos de python estaba en idioma francés, debido a algunas ambiciones de reubicación, publicaré mis cuadernos de optimizaciones ordenadas múltiples allí en el futuro, en inglés y español.
 
 
