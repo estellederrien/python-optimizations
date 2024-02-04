@@ -1,6 +1,4 @@
-# - Management science - Operations Research - Python optimizations .
-My Management science, and Mathematical Optimizations python notebooks.
-
+# My Management science, and Mathematical Optimizations python notebooks.
 <p align="center" >
   <img  src="https://github.com/estellederrien/python-data-science/blob/master/operationsresearch.png" >
 </p>
