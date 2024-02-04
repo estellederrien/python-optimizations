@@ -61,6 +61,15 @@ This is not the only field I 'm working on, I also work on Python Maths probabli
 . Non Linear regression <br>
 . ODE<br>
 
+<b>Machine learning</b><br>
+. Decision tree<br>
+. Random forest<br>
+. Kneighbors <br>
+. Kmeans<br>
+. Vector support<br>
+. Naïve beysian<br>
+. Neural networks<br>
+
 # Latest news : 
 
 02/04/2024 : Finally back on the project, Starting the old french files translations, then, I will go further with more complex optimizations, including Dynamic optimizations.
