@@ -1,4 +1,4 @@
-# Operations Research - Python optimizations - Management science.
+# - Management science - Operations Research - Python optimizations .
 My Management science, and Mathematical Optimizations python notebooks.
 
 <p align="center" >
@@ -11,7 +11,7 @@ Hello, my name is Estelle Derrien, my LinkedIn is https://www.linkedin.com/in/es
 I'm available for work in Suisse, China, SouthAmerica, Serbia and eventually India.
 
 I am creating Mathematical optimizations engineering notebooks from my own examples or from various sources such
-as 10 books in English language.
+as 10 books studies in English language.
 
 In the following fields :
 
@@ -44,10 +44,6 @@ In the following fields :
 . 16. Multiple objective<br>
 . 17. Dynamics<br>
 
-. Single machines scheduling, Job Shop, Flow Shop<br>
-. Multiple objectives<br>
-. Non linear production optimization<br>
-
 Theses notebooks are really useful for companies management, factories management, shops management...
 
 When ready, I will also codes convert them to my online application : www.solvgraph.com , translated to a graphical mode, for an easier use for anyone, without coding.
@@ -56,7 +52,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 -> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
 # Precision :
-This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I will probably create another depot for that.
+This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I will probably create another depot for that. I can also code a full stack app.
 
 <b>Predictive Maths - Probability rules</b><br>
 . Uniform<br>
