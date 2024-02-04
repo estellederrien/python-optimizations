@@ -8,6 +8,7 @@ My Management science, and Mathematical Optimizations python notebooks.
 # Introduction
 
 Hello, my name is Estelle Derrien, my LinkedIn is https://www.linkedin.com/in/estelle-derrien-ro/
+I'm available for work in Suisse, China, SouthAmerica, Serbia and eventually India.
 
 I am creating Mathematical optimizations engineering notebooks from my own examples or from various sources such
 as 10 books in English language.
@@ -15,9 +16,9 @@ as 10 books in English language.
 In the following fields :
 
 <b>Management science :</b><br>
-. Break even calculation
-. Decisions under uncertainty
-. Productivity Measures<br>
+. Break even calculation<br>
+. Decisions under uncertainty<br>
+. Productivity Measurement<br>
 . Simulations (With or without probabilities)<br>
 . Quality management<br>
 . Six Sigma<br>
