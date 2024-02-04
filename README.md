@@ -7,8 +7,12 @@ Classical Optimizations categories using Cplex, Gekko, Pulp, Google Or Cvxopt an
 Hello, my name is Estelle Derrien, my LinkedIn is https://www.linkedin.com/in/estelle-derrien-ro/
 
 I am creating notebooks in the following fields :
--> Best Pricing calculations, Simulations, Queuing systems, Productivity Measures, Quality management, Six Sigma, Toyota methods, Process KPIS.
--> Production Mix optimizations, Blending models, Networks Opts, Project Management Opts, Multiperiods optimizations, Portfolios Opts, Set Covering models, Knapsacks, Bin Packings, Single machines scheduling, Job Shop, Flow Shop, Non linear production, ...
+
+<b>Management science :</b>
+Non linear Best Pricing calculations, Simulations, Queuing systems, Productivity Measures, Quality management, Six Sigma, Toyota methods, Process KPIS.
+
+<b>Optimizations :</b>
+Production Mix optimizations, Blending , Networks , Project Management , Multiperiods , Portfolios , Set Covering , Knapsacks, Bin Packings, Single machines scheduling, Job Shop, Flow Shop, Non linear production optimization, ...
 
 When ready, theses codes will then be added to my application : www.solvgraph.com , translated to a graphical mode, for an easier use.
 
@@ -16,7 +20,7 @@ When ready, theses codes will then be added to my application : www.solvgraph.co
 -> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
 # Precision :
-This is not the only field I 'm working on, I also work on Python Maths probablities, ODES, and machine learning projects. I will probably create another depot for that.
+This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I will probably create another depot for that.
 
 # Latest news : 
 
