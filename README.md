@@ -52,7 +52,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 -> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
 # Precision :
-This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I will probably create another depot for that. I can also code a full stack app.
+This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I will probably create another depot for that. I can also code a full stack app and build some B.I data warehouse and any dashboard using Power B.I or even JS.
 
 <b>Predictive Maths - Probability rules</b><br>
 . Uniform<br>
