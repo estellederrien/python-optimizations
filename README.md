@@ -1,8 +1,24 @@
 # Operations Research - Python optimizations - Management science.
 Classical Optimizations categories using Cplex, Gekko, Pulp, Google Or Cvxopt and the Excel solver.
 
-Hello, my main python data science was in French language, due to some relocations ambitions, I will publish my
-multiple ordered optimizations notebooks there in the future, in English and Spanish language. Please allow a few weeks before I start uploading the translated python notebooks, It's longer than I expected.
+
+# Introduction
+
+Hello, my name is Estelle Derrien, my LinkedIn is https://www.linkedin.com/in/estelle-derrien-ro/
+
+I am creating notebooks in the following fields :
+-> Best Pricing calculations, Simulations, Queuing systems, Productivity Measures, Quality management, Six Sigma, Toyota methods, Process KPIS.
+-> Production Mix optimizations, Blending models, Networks Opts, Project Management Opts, Multiperiods optimizations, Portfolios Opts, Set Covering models, Knapsacks, Bin Packings, Single machines scheduling, Job Shop, Flow Shop, Non linear production, ...
+
+# Used Tools :
+-> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
+
+# Latest news : 
+
+02/04/2024 : Starting the old french files translations, then, I will go further with more complex optimizations, including Dynamic optimizations.
+I will also add an ODE notebook.
+
+# Espanol
 
 Categorías de optimizaciones clásicas utilizando Cplex, Gekko, Pulp, Google o Cvxopt y el solucionador de Excel.
 
