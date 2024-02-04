@@ -10,6 +10,8 @@ I am creating notebooks in the following fields :
 -> Best Pricing calculations, Simulations, Queuing systems, Productivity Measures, Quality management, Six Sigma, Toyota methods, Process KPIS.
 -> Production Mix optimizations, Blending models, Networks Opts, Project Management Opts, Multiperiods optimizations, Portfolios Opts, Set Covering models, Knapsacks, Bin Packings, Single machines scheduling, Job Shop, Flow Shop, Non linear production, ...
 
+When ready, theses codes will then be added to my application : www.solvgraph.com , translated to a graphical mode, for an easier use.
+
 # Used Tools :
 -> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
