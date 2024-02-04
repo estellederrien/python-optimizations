@@ -16,6 +16,8 @@ Production Mix optimizations, Blending , Networks , Project Management , Multipe
 
 When ready, theses codes will then be added to my application : www.solvgraph.com , translated to a graphical mode, for an easier use.
 
+Theses notebooks are useful for companies, factories, shops...
+
 # Used Tools :
 -> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
