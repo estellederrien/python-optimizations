@@ -9,7 +9,7 @@ My Management science, and Mathematical Optimizations python notebooks.
 
 Hello, my name is Estelle Derrien, my LinkedIn is https://www.linkedin.com/in/estelle-derrien-ro/
 
-I am creating Mathematical optimizations notebooks in the following fields :
+I am creating Mathematical optimizations engineering notebooks in the following fields :
 
 <b>Management science :</b><br>
 . Non linear Best Pricing calculations<br>
@@ -35,9 +35,9 @@ I am creating Mathematical optimizations notebooks in the following fields :
 . Single machines scheduling, Job Shop, Flow Shop<br>
 . Non linear production optimization<br>
 
-When ready, theses codes will then be added to my online application : www.solvgraph.com , translated to a graphical mode, for an easier use for anyone, without coding.
+Theses notebooks are really useful for companies management, factories management, shops management...
 
-Theses notebooks are useful for companies management, factories management, shops management...
+When ready, I will also codes convert them to my online application : www.solvgraph.com , translated to a graphical mode, for an easier use for anyone, without coding.
 
 # Used Tools :
 -> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
@@ -64,8 +64,8 @@ This is not the only field I 'm working on, I also work on Python Maths probabli
 <b>Machine learning</b><br>
 . Decision tree<br>
 . Random forest<br>
-. Kneighbors <br>
-. Kmeans<br>
+. K-neighbors <br>
+. K-means<br>
 . Vector support<br>
 . Naïve beysian<br>
 . Neural networks<br>
