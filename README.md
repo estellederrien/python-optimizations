@@ -1,5 +1,5 @@
 # Operations Research - Python optimizations - Management science.
-Classical Optimizations categories using Cplex, Gekko, Pulp, Google Or Cvxopt and the Excel solver.
+My Management science, and Mathematical Optimizations dépot.
 
 <p align="center" >
   <img  src="https://github.com/estellederrien/python-data-science/blob/master/operationsresearch.png" >
@@ -33,9 +33,11 @@ I am creating Mathematical optimizations notebooks in the following fields :
 . Knapsacks
 . Bin Packings
 . Single machines scheduling, Job Shop, Flow Shop
-. Non linear production optimization, ...
+. Non linear production optimization
 
 When ready, theses codes will then be added to my online application : www.solvgraph.com , translated to a graphical mode, for an easier use for anyone, without coding.
+
+<b>Probability laws</b>
 
 Theses notebooks are useful for companies management, factories management, shops management...
 
