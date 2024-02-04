@@ -9,12 +9,15 @@ My Management science, and Mathematical Optimizations python notebooks.
 
 Hello, my name is Estelle Derrien, my LinkedIn is https://www.linkedin.com/in/estelle-derrien-ro/
 
-I am creating Mathematical optimizations engineering notebooks in the following fields :
+I am creating Mathematical optimizations engineering notebooks from my own examples or from various sources such
+as 10 books in English language.
+
+In the following fields :
 
 <b>Management science :</b><br>
-. Non linear Best Pricing calculations<br>
+. Break even calculation
+. Decisions under uncertity
 . Simulations (With or without probabilities)<br>
-. Queuing systems<br>
 . Productivity Measures<br>
 . Quality management<br>
 . Six Sigma<br>
@@ -22,17 +25,26 @@ I am creating Mathematical optimizations engineering notebooks in the following 
 . Process KPIS.<br>
 
 <b>Optimizations :</b><br>
-. Production<br>
-. Blending <br>
-. Networks <br>
-. Project Management<br>
-. Multiperiods <br>
-. Portfolios <br>
-. Finances <br>
-. Set Covering <br>
-. Knapsacks<br>
-. Bin Packings<br>
+. 01. Production<br>
+. 02. Blending <br>
+. 03. Networks <br>
+. 04. Knapsacks and Bin Packing <br>
+. 05. Scheduling <br>
+. 06. Project Management<br>
+. 07. Porfolios<br>
+. 08. Cutting stock<br>
+. 09. Multiperiods <br>
+. 10. Planning<br>
+. 11. Pricing<br>
+. 12. Queues<br>
+. 13. Chemical and petroleum<br>
+. 14. Mechanical<br>
+. 15. Geometric<br>
+. 16. Multiple objective<br>
+. 17. Dynamics<br>
+
 . Single machines scheduling, Job Shop, Flow Shop<br>
+. Multiple objectives<br>
 . Non linear production optimization<br>
 
 Theses notebooks are really useful for companies management, factories management, shops management...
