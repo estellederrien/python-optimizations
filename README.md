@@ -16,9 +16,9 @@ In the following fields :
 
 <b>Management science :</b><br>
 . Break even calculation
-. Decisions under uncertity
-. Simulations (With or without probabilities)<br>
+. Decisions under uncertainty
 . Productivity Measures<br>
+. Simulations (With or without probabilities)<br>
 . Quality management<br>
 . Six Sigma<br>
 . Toyota methods<br>
