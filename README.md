@@ -15,10 +15,12 @@ When ready, theses codes will then be added to my application : www.solvgraph.co
 # Used Tools :
 -> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
+# Precision :
+This is not the only field I 'm working on, I also work on Python Maths probablities, ODES, and machine learning projects. I will probably create another depot for that.
+
 # Latest news : 
 
-02/04/2024 : Starting the old french files translations, then, I will go further with more complex optimizations, including Dynamic optimizations.
-I will also add an ODE notebook.
+02/04/2024 : Finally back on the project, Starting the old french files translations, then, I will go further with more complex optimizations, including Dynamic optimizations.
 
 # Espanol
 
