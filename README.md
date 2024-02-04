@@ -46,6 +46,10 @@ Theses notebooks are really useful for companies management, factories managemen
 
 When ready, I will also codes convert them to my online application : www.solvgraph.com , translated to a graphical mode, for an easier use for anyone, without coding.
 
+
+![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
+
+
 # Used Tools :
 -> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
