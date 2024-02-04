@@ -21,8 +21,8 @@ I am creating Mathematical optimizations notebooks in the following fields :
 . Toyota methods<br>
 . Process KPIS.<br>
 
-<b>Optimizations :</b>
-. Production Mix optimizations<br>
+<b>Optimizations :</b><br>
+. Production<br>
 . Blending <br>
 . Networks <br>
 . Project Management<br>
@@ -37,7 +37,15 @@ I am creating Mathematical optimizations notebooks in the following fields :
 
 When ready, theses codes will then be added to my online application : www.solvgraph.com , translated to a graphical mode, for an easier use for anyone, without coding.
 
-<b>Probability rules</b>
+Theses notebooks are useful for companies management, factories management, shops management...
+
+# Used Tools :
+-> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
+
+# Precision :
+This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I will probably create another depot for that.
+
+<b>Predictive Maths - Probability rules</b><br>
 . Uniform<br>
 . Normal<br>
 . Exponential<br>
@@ -47,18 +55,11 @@ When ready, theses codes will then be added to my online application : www.solvg
 . Probability tree<br>
 . Markov chains
 
-<b>Descriptive maths</b>
+<b>Descriptive Maths</b><br>
+. Linear regression<br>
 . Multiple Linear regression<br>
 . Non Linear regression <br>
-
-
-Theses notebooks are useful for companies management, factories management, shops management...
-
-# Used Tools :
--> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
-
-# Precision :
-This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I will probably create another depot for that.
+. ODE<br>
 
 # Latest news : 
 
