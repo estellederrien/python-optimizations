@@ -1,5 +1,5 @@
 # Operations Research - Python optimizations - Management science.
-My Management science, and Mathematical Optimizations dépot.
+My Management science, and Mathematical Optimizations python notebooks.
 
 <p align="center" >
   <img  src="https://github.com/estellederrien/python-data-science/blob/master/operationsresearch.png" >
@@ -11,33 +11,46 @@ Hello, my name is Estelle Derrien, my LinkedIn is https://www.linkedin.com/in/es
 
 I am creating Mathematical optimizations notebooks in the following fields :
 
-<b>Management science :</b>
-. Non linear Best Pricing calculations
-. Simulations (With or without probabilities)
-. Queuing systems
-. Productivity Measures
-. Quality management
-. Six Sigma
-. Toyota methods
-. Process KPIS.
+<b>Management science :</b><br>
+. Non linear Best Pricing calculations<br>
+. Simulations (With or without probabilities)<br>
+. Queuing systems<br>
+. Productivity Measures<br>
+. Quality management<br>
+. Six Sigma<br>
+. Toyota methods<br>
+. Process KPIS.<br>
 
 <b>Optimizations :</b>
-. Production Mix optimizations
-. Blending 
-. Networks 
-. Project Management
-. Multiperiods 
-. Portfolios 
-. Finances 
-. Set Covering 
-. Knapsacks
-. Bin Packings
-. Single machines scheduling, Job Shop, Flow Shop
-. Non linear production optimization
+. Production Mix optimizations<br>
+. Blending <br>
+. Networks <br>
+. Project Management<br>
+. Multiperiods <br>
+. Portfolios <br>
+. Finances <br>
+. Set Covering <br>
+. Knapsacks<br>
+. Bin Packings<br>
+. Single machines scheduling, Job Shop, Flow Shop<br>
+. Non linear production optimization<br>
 
 When ready, theses codes will then be added to my online application : www.solvgraph.com , translated to a graphical mode, for an easier use for anyone, without coding.
 
-<b>Probability laws</b>
+<b>Probability rules</b>
+. Uniform<br>
+. Normal<br>
+. Exponential<br>
+. Discrete<br>
+. Exponential<br>
+. Poisson<br>
+. Probability tree<br>
+. Markov chains
+
+<b>Descriptive maths</b>
+. Multiple Linear regression<br>
+. Non Linear regression <br>
+
 
 Theses notebooks are useful for companies management, factories management, shops management...
 
