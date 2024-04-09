@@ -83,6 +83,8 @@ This is not the only field I 'm working on, I also work on Python Maths probabli
 
 # Latest news : 
 
+09/04/2024 : I will continue both languages at the same time.
+
 02/04/2024 : Finally back on the project, Starting the old french files translations, then, I will go further with more complex optimizations, including Dynamic optimizations. Please allow a few time before I start Translating theses old notebooks from French to English, Don't know If I will translate all of variables too.
 
 # Español
