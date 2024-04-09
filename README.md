@@ -1,4 +1,4 @@
-# My Management science, and Mathematical Optimizations python notebooks.
+# My Management Supply chain, optimizations and probabilities rules notebooks dedicated for factories, business, management etc ...
 <p align="center" >
   <img  src="https://github.com/estellederrien/python-data-science/blob/master/operationsresearch.png" >
 </p>
@@ -13,10 +13,10 @@ as 10 books studies in English language.
 
 In the following fields :
 
-<b>Management science :</b><br>
+<b>Supply Chain - Management science :</b><br>
+. Productivity Measurement<br>
 . Break even calculation<br>
 . Decisions under uncertainty<br>
-. Productivity Measurement<br>
 . Simulations (With or without probabilities)<br>
 . Quality management<br>
 . Six Sigma<br>
@@ -51,7 +51,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 
 # Used Tools :
--> Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
+-> Python, Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
 # Precision :
 This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I can also code a full stack app (Vue, Node.js Python..) and build some B.I data warehouse and any dashboard using Power B.I or even JS.
