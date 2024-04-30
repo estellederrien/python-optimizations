@@ -13,15 +13,16 @@ as 10 books studies in English language.
 
 In the following fields :
 
-<b>Supply Chain - Management science :</b><br>
+<b>Management :</b><br>
 . Productivity Measurement<br>
 . Break even calculation<br>
-. Decisions under uncertainty<br>
-. Simulations (With or without probabilities)<br>
+. Balanced scoreyard and KPI's.
+. Decisions analysis ( Uncertainty, Risk)<br>
+. Simulations<br>
 . Quality management<br>
 . Six Sigma<br>
 . Toyota methods<br>
-. Process KPIS.<br>
+
 
 <b>Optimizations :</b><br>
 . 01. Production<br>
