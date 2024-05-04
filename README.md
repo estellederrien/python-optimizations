@@ -84,7 +84,7 @@ This is not the only field I 'm working on, I also work on Python Maths probabli
 
 # Latest news : 
 
-04/05/2024 : Ok , I am creating the Management, and <b> unique </b> supply chain notebook, and translating one optimization notebook file a day . Next, will be the <b>unique</b> probability rules notebook, then the unique ODE notebook with some real concretes cases, then the M.L directory. Next, I will add a <b>unique</b> notebook dedicated to mechanical formulas, and finally, a <b>unique</b> finance notebook file as a conclusion.
+04/05/2024 : Ok , I am creating the Management, and <b> unique </b> supply chain notebook, and translating one optimization notebook file a day . Next, will be the <b>unique</b> probabilities rules notebook, then the unique ODE notebook with some real concretes differential equations cases in a production env, then the M.L directory. Next, I will add a <b>unique</b> notebook dedicated to mechanical formulas, and finally, a <b>unique</b> finance notebook file as a conclusion.
 
 09/04/2024 : I will continue both languages at the same time.
 
