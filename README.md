@@ -54,6 +54,14 @@ When ready, I will also codes convert them to my online application : www.solvgr
 # Used Tools :
 -> Python, Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
+# Latest news : 
+
+04/05/2024 : Ok , I am creating the Management, and <b> unique </b> supply chain notebook, and translating one optimization notebook file a day . Next, will be the <b>unique</b> probabilities rules notebook, then the unique ODE notebook with some real concretes differential equations cases in a production env, then the M.L directory. Next, I will add a <b>unique</b> notebook dedicated to mechanical formulas, and finally, a <b>unique</b> finance notebook file as a conclusion.
+
+09/04/2024 : I will continue both languages at the same time.
+
+02/04/2024 : Finally back on the project, Starting the old french files translations, then, I will go further with more complex optimizations, including Dynamic optimizations. Please allow a few time before I start Translating theses old notebooks from French to English, Don't know If I will translate all of variables too.
+
 # Precision :
 This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I can also code a full stack app (Vue, Node.js Python..) and build some B.I data warehouse and any dashboard using Power B.I or even JS.
 
@@ -82,13 +90,7 @@ This is not the only field I 'm working on, I also work on Python Maths probabli
 . Naïve beysian<br>
 . Neural networks<br>
 
-# Latest news : 
 
-04/05/2024 : Ok , I am creating the Management, and <b> unique </b> supply chain notebook, and translating one optimization notebook file a day . Next, will be the <b>unique</b> probabilities rules notebook, then the unique ODE notebook with some real concretes differential equations cases in a production env, then the M.L directory. Next, I will add a <b>unique</b> notebook dedicated to mechanical formulas, and finally, a <b>unique</b> finance notebook file as a conclusion.
-
-09/04/2024 : I will continue both languages at the same time.
-
-02/04/2024 : Finally back on the project, Starting the old french files translations, then, I will go further with more complex optimizations, including Dynamic optimizations. Please allow a few time before I start Translating theses old notebooks from French to English, Don't know If I will translate all of variables too.
 
 # Español
 
