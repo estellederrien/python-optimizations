@@ -63,7 +63,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 02/04/2024 : Finally back on the project, Starting the old french files translations, then, I will go further with more complex optimizations, including Dynamic optimizations. Please allow a few time before I start Translating theses old notebooks from French to English, Don't know If I will translate all of variables too.
 
 # Precision :
-This is not the only field I 'm working on, I also work on Python Maths probablities, ODES ( Differential equations), and machine learning projects. I can also code a full stack app (Vue, Node.js Python..) and build some B.I data warehouse and any dashboard using Power B.I or even JS.
+This is not the only field I 'm working on, I also work on Python Maths probability rules, ODES ( Differential equations), and machine learning projects. I can also code a full stack app (Using Vanilla, Vue, Node.js,  Python..) and build some B.I data warehouse and any dashboard using Power B.I or even JS.
 
 <b>Predictive Maths - Probability rules</b><br>
 . Uniform<br>
