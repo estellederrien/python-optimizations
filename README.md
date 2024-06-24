@@ -6,7 +6,7 @@
 # Introduction
 
 Hello, my name is Estelle Derrien, my LinkedIn is https://www.linkedin.com/in/estelle-derrien-ro/
-I'm available for work in Switzerland, China, SouthAmerica, Serbia and eventually India, as a production engineer. I can alternativly provide some full stack devs.
+I'm available for work in Switzerland, China, SouthAmerica, Serbia and eventually India, as a production engineer. I can alternativly provide some full stack devs ( Also with drag n drops features ..).
 
 I am creating Mathematical optimizations engineering notebooks from my own examples or from various sources such
 as 10 books studies in English language.
