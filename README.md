@@ -56,6 +56,10 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 # Latest news : 
 
+06 12 2024 : I found a way to quickly translate my notebooks with NbConvert to HTML and using the web and the Just one page PDF plug in Chrome. My notebooks in optimization are improving and will become quite good with latex.
+
+
+
 04/05/2024 : Ok , I am creating the Management, and <b> unique </b> supply chain notebook, and translating one optimization notebook file a day . Next, will be the <b>unique</b> probabilities rules notebook, then the unique ODE notebook with some real concretes differential equations cases in a production env, then the M.L directory. Next, I will add a <b>unique</b> notebook dedicated to <b>mechanical</b> formulas, and finally, a <b>unique</b> finances notebook file as a conclusion.
 
 09/04/2024 : I will continue both languages at the same time.
