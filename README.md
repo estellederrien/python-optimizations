@@ -57,7 +57,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 # Latest news : 
 
 22 12 2024 : Hi guys, I am now definitly switching to the English language , My only "nice" optimization notebook is currently 00A. Appendix - Matching a mathematical model mod , but I will work, day after day, to 
-recreate stuffs in this style, and first, complete this one.
+recreate stuffs in this style, and first, complete this one. I'm unpayed for that, so It will take the necessary time to do it, sometimes I stop.
 
 06 12 2024 : I found a way to quickly translate my notebooks with NbConvert to HTML and using the web and the Just one page PDF plug in Chrome. My notebooks in optimization are improving and will become quite good with latex.
 
