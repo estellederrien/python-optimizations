@@ -56,18 +56,9 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 # Latest news : 
 
-<<<<<<< HEAD
-27/12/2024 : Hi guys, I am definitly giving up the french language due to jobs discrimination, and malicious various actions, and that I'm basically in danger here, now. This depot will now be my only depot, wishing to moove permanently from where I was born, and from Europe, If you like my profile and my optimizations skills, please contact me : estelle.Derrien@proton.me, ok , let's start by completing my " Fitting a maths model to a solver code" notebook.
+27/12/2024 : Hi guys, I am definitly giving up the french language due to jobs discrimination, and malicious various actions, and that I'm basically in danger here, now. This depot will now be my only depot, wishing to moove permanently from where I was born, and from Europe, If you like my profile and my optimizations skills, please contact me : estelle.Derrien@proton.me, ok , let's start by completing my " Fitting a maths model to a solver code" notebook..
 
 06 12 2024 : I found a way to quickly translate my notebooks with NbConvert to HTML and using the web and the Just one page PDF plug in Chrome. My notebooks in optimization are improving and will become quite good with latex during the year.
-=======
-22 12 2024 : Hi guys, I am now definitly switching to the English language , My only "nice" optimization notebook is currently 00A. Appendix - Matching a mathematical model mod , but I will work, day after day, to 
-recreate stuffs in this style, and first, complete this one. I'm unpayed for that, so It will take the necessary time to do it, sometimes I stop.
-
-06 12 2024 : I found a way to quickly translate my notebooks with NbConvert to HTML and using the web and the Just one page PDF plug in Chrome. My notebooks in optimization are improving and will become quite good with latex.
->>>>>>> ed0f72426ecf328d9d005ef4db35e87aabd707eb
-
-
 
 04/05/2024 : Ok , I am creating the Management, and <b> unique </b> supply chain notebook, and translating one optimization notebook file a day . Next, will be the <b>unique</b> probabilities rules notebook, then the unique ODE notebook with some real concretes differential equations cases in a production env, then the M.L directory. Next, I will add a <b>unique</b> notebook dedicated to <b>mechanical</b> formulas, and finally, a <b>unique</b> finances notebook file as a conclusion.
 
