@@ -56,7 +56,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 # Latest news : 
 
-27/12/2024 : Hi guys, I am definitly giving up the french language due to malicious actions, employment discrimination, and that I'm basically really in danger here, now. This depot will now be my only depot, wishing to moove permanently from where I was born, and from Europe, and doing all I'm able to flee from there. If you like my profile and my optimizations skills, please contact me : estelle.Derrien@proton.me, ok , let's start by completing my " Fitting a maths model to a solver code" notebook, under the Optimizations directory. Please notice that I can do optimizations in Spanish. I will do a few each day, because I ain't pay for that, and doing a book is a waste of time considering piracy.
+27/12/2024 : Hi guys, I am definitly giving up the french language due to malicious actions, employment and gov discrimination, and that I'm basically really in danger here, now. This depot will now be my only depot, wishing to moove permanently from where I was born, and from Europe, and doing all I'm able to flee from there. If you like my profile and my optimizations skills, please contact me : estelle.Derrien@proton.me, ok , let's start by completing my " Fitting a maths model to a solver code" notebook, under the Optimizations directory. Please notice that I can do optimizations in Spanish. I will do a few each day, because I ain't payed for that, and doing a book is a waste of time considering piracy.
 
 06 12 2024 : I found a way to quickly translate my notebooks with NbConvert to HTML and using the web and the Just one page PDF plug in Chrome. My notebooks in optimization are improving and will become quite good with latex during the year.
 
