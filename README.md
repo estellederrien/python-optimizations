@@ -56,7 +56,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 # Latest news : 
 
-29/12/2024 : [Matching a Mathematical model to a Python solver code INTRODUCTION TUTORIAL](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Multi%20variables%20function%20-%20Matching%20a%20mathematical%20model%20to%20a%20solver%20code.ipynb)
+29/12/2024 : [Matching a Mathematical model to a Python solver code INTRODUCTION TUTORIAL](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20optimizations%20-%20Matching%20a%20mathematical%20model%20to%20a%20solver%20code.ipynb)
 
 
 27/12/2024 : Hi boyz, I am now using the English language as my first language, ok , let's start by completing my optimizations tutorial " Fitting a maths model to a solver code" notebook, under the Optimizations directory, All of the others  files will then be methodically reviewed and rewritten. Please notice that I can do optimizations in Spanish, and that Operations Research optimizations can be applied to any kind of company, from small to big ones. Doing a book is a waste of time considering piracy. I will also dev the ODEs - Differential equations in Python, at the same time, How exciting is this. It's way simplier, faster and clearer for me to use only one language now, less talk, more action, keeping a funny and good spirit.
