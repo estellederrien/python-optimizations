@@ -60,6 +60,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 https://github.com/Pegah-Ardehkhani 
 https://github.com/mmartyna123
 https://github.com/unerue/or-tutorial
+https://github.com/jwang0306/vehicle-routing-problem
 
 29/12/2024 : [Matching a Mathematical model to a Python solver code INTRODUCTION STUDY](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20combinatorial%20optimizations%20-%20Matching%20a%20mathematical%20model%20to%20a%20solver%20code.ipynb)
 
