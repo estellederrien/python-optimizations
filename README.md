@@ -56,6 +56,9 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 # Latest news : 
 
+
+06 20 2024 : https://github.com/Harrypatria
+
 14/04/2024 : Good links : 
 https://github.com/Pegah-Ardehkhani 
 https://github.com/mmartyna123
