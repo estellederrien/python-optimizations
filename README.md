@@ -57,7 +57,13 @@ When ready, I will also codes convert them to my online application : www.solvgr
 # Latest news : 
 
 
-06 20 2024 : https://github.com/Harrypatria
+06 20 2024 : 
+https://github.com/Harrypatria
+https://github.com/Ziqi-Li/sp_opt_pulp_example
+Deriving a Marketing Budget Allocation Model
+Under Uncertain History Data
+https://arno.uvt.nl/show.cgi?fid=146144
+
 
 14/04/2024 : Good links : 
 https://github.com/Pegah-Ardehkhani 
