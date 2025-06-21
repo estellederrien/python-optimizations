@@ -57,13 +57,19 @@ When ready, I will also codes convert them to my online application : www.solvgr
 # Latest news : 
 
 
-06 20 2024 : https://github.com/Harrypatria
+06 20 2024 : 
+https://github.com/Harrypatria<br>
+https://github.com/Ziqi-Li/sp_opt_pulp_example<br>
+Deriving a Marketing Budget Allocation Model<br>
+Under Uncertain History Data<br>
+https://arno.uvt.nl/show.cgi?fid=146144<br>
 
-14/04/2024 : Good links : 
-https://github.com/Pegah-Ardehkhani 
-https://github.com/mmartyna123
-https://github.com/unerue/or-tutorial
-https://github.com/jwang0306/vehicle-routing-problem
+
+14/04/2024 : Good links : <br>
+https://github.com/Pegah-Ardehkhani <br>
+https://github.com/mmartyna123<br>
+https://github.com/unerue/or-tutorial<br>
+https://github.com/jwang0306/vehicle-routing-problem<br>
 
 29/12/2024 : [Matching a Mathematical model to a Python solver code INTRODUCTION STUDY](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20combinatorial%20optimizations%20-%20Matching%20a%20mathematical%20model%20to%20a%20solver%20code.ipynb)
 
