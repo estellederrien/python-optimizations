@@ -60,7 +60,8 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 22 06 2025 : Hi guyz, the ideal for me would be to add one new linear or n.l optimization a day, adding one new ODE - diff equation a day, and one new greedy algorithm a day now, but I can't guarantee I will do it. This would be the best way to step up my level.
 
-06 20 2024 : 
+06 20 2024 :
+https://github.com/shuv50/Data-Science <br>
 https://github.com/Harrypatria<br>
 https://github.com/Ziqi-Li/sp_opt_pulp_example<br>
 Deriving a Marketing Budget Allocation Model<br>
