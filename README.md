@@ -57,7 +57,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 # Latest news : 
 
 
-22 06 2025 : Hi guyz, the ideal for me would be to add one new linear or n.l optimization a day, adding one new ODE - diff equation a day, and one new greedy algorithm a day now, but I can't guarantee I will do it. This would be the best way to step up my level.
+22 06 2025 : Hi guyz, the ideal for me would be to add one new linear or n.l optimization a day, adding one new ODE - diff equation a day, and one new greedy algorithm a day now, but I can't guarantee I will do it. 
 
 06 20 2024 :
 https://github.com/shuv50/Data-Science <br>
