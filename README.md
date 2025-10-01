@@ -56,7 +56,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 # Latest news : 
 
-10 01 2025 : I am back, plenty of things like " Queues analysis " are already done as my old french notebook but not translated yet, and the only way for me is to do a few notebooks parts, each of the days. Due to some lack of knowledge, I am also on the french BUT and high school terminale STL " Physical measures " directory. One solution for me is to stop working on the side for one year, to finish all of that, I dont know. I have expectations about the ODE notebook too. I wish I could be focused on all of that 8 hours a day. I am missing multiple machines scheduling optimizations too.
+10 01 2025 : I am back, plenty of things like " Queues analysis " are already done as my old french notebook but not translated yet, and the only way for me is to do a few notebooks parts, each of the days. Due to some lack of knowledge, I am also on the french BUT and high school terminale STL " Physical measures " directory. One solution for me is to stop working on the side for one year, to finish all of that, I dont know. I have expectations about the ODE notebook too. I wish I could be focused on all of that 8 hours a day. I am missing multiple machines scheduling optimizations too. Like a snail, I continue a little every day.
 
 22 06 2025 : Hi guyz, the ideal for me would be to add one new linear or n.l optimization a day, adding one new ODE - diff equation a day, and one new greedy algorithm a day now, but I can't guarantee I will do it. 
 
