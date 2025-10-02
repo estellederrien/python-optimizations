@@ -56,7 +56,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 # Latest news : 
 
-10 01 2025 : I am back, some things like " Queues analysis " are already done as my old french notebook but not translated yet.
+10 01 2025 : I am back, some things like " Queues analysis " are already done as my old french notebook but not translated yet. My ideal life would be to add one new example by notebooks each days.
 
 22 06 2025 : Hi guyz, the ideal for me would be to add one new linear or n.l optimization a day, adding one new ODE - diff equation a day, and one new greedy algorithm a day now, but I can't guarantee I will do it. 
 
