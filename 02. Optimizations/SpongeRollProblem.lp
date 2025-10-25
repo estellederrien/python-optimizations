@@ -1,16 +1,37 @@
 \* Cutting_Stock_Problem *\
 Minimize
-Production_Cost: Patt_A + Patt_B + Patt_C
+Production_Cost: Patt_x1 + Patt_x10 + Patt_x11 + Patt_x12 + Patt_x2 + Patt_x3
+ + Patt_x4 + Patt_x5 + Patt_x6 + Patt_x7 + Patt_x8 + Patt_x9
 Subject To
-Ensuring_enough_5_cm_rolls: 2 Patt_B + 2 Patt_C >= 150
-Ensuring_enough_7_cm_rolls: Patt_A + Patt_B >= 200
-Ensuring_enough_9_cm_rolls: Patt_A + Patt_C >= 300
+Ensuring_enough_10_cm_rolls: Patt_x12 + Patt_x8 + Patt_x9 >= 6
+Ensuring_enough_4_cm_rolls: 3 Patt_x1 + Patt_x10 + 2 Patt_x3 + Patt_x4
+ + 2 Patt_x5 + Patt_x6 + Patt_x8 >= 10
+Ensuring_enough_5_cm_rolls: Patt_x11 + 3 Patt_x2 + Patt_x3 + 2 Patt_x4
+ + Patt_x6 + 2 Patt_x7 + Patt_x9 >= 12
 Bounds
- 0 <= Patt_A
- 0 <= Patt_B
- 0 <= Patt_C
+ 0 <= Patt_x1
+ 0 <= Patt_x10
+ 0 <= Patt_x11
+ 0 <= Patt_x12
+ 0 <= Patt_x2
+ 0 <= Patt_x3
+ 0 <= Patt_x4
+ 0 <= Patt_x5
+ 0 <= Patt_x6
+ 0 <= Patt_x7
+ 0 <= Patt_x8
+ 0 <= Patt_x9
 Generals
-Patt_A
-Patt_B
-Patt_C
+Patt_x1
+Patt_x10
+Patt_x11
+Patt_x12
+Patt_x2
+Patt_x3
+Patt_x4
+Patt_x5
+Patt_x6
+Patt_x7
+Patt_x8
+Patt_x9
 End
