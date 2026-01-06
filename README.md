@@ -27,7 +27,8 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 Here is a MAJOR Lindo non linear optimizations link : 
 https://lindo.com/doc/online_help/lingo20_0/index.html?financial_models.htm
-I am now able to convert some Lindo optimizations to a Python CPlex optimization, I have really improved and this year will be better ! This is due to my maths models analysis I've done past year.
+I am now able to convert some Lindo optimizations to a Python CPlex optimization, My optimizations skills have really improved and this year will be better ! This is due to my deep maths models analysis I've done past year.
+Concerning linear optimizations, I'm still missing some BIGM studies.
 
 06/01/2025 : French ChatGpt AI et Gemini AI me permettront de finaliser très rapidement mon notebook ODE d'équations différentielles . La plupart des indicateurs de la chaîne d'approvisionnement, des probabilités et des calculs d'apprentissage automatique machine learning, des formules de robotique, Monte Carlo simuations, Chaines de markov, Formules en finance,  pourront désormais être synthétisées instantanément par l'IA, y compris le code Python. Je dispose également d'une synthèse des modèles mathématique en M.L de linkedin Abdel Yezza. L'A.I me sera également un peu utile pour mon répertoire du BUT « Mesures physiques » . Gemini AI synthétise bien plus rapidement que moi et fournis le code Python, et je possède tous les manuels scolaires Dunod et Fournier nécessaires pour vérifier l' exactitude. Cela me permettra de créer des applications scientifiques beaucoup plus rapidement. A propos de la recherche opérationnelle, je reste sur de l'étude concrête sans A.I ( Car je n'y crois pas), et je veux faire surtout du non linéaire ( Y'en a des tonnes à mettre). La R.O étant des maths prescriptifs, c'est ce que je préfère.
 
