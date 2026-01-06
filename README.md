@@ -11,37 +11,6 @@ I'm available for work  as a production and O.R basical engineer. I can alternat
 I am creating Mathematical optimizations engineering notebooks from my own examples or from various sources such
 as 10 books studies in English language.
 
-In the following fields :
-
-<b>Management :</b><br>
-. Productivity Measurement<br>
-. Break even calculation<br>
-. Balanced scoreyard and KPI's.
-. Decisions analysis ( Uncertainty, Risk)<br>
-. Simulations<br>
-. Quality management<br>
-. Six Sigma<br>
-. Toyota methods<br>
-
-
-<b>Optimizations :</b><br>
-. 01. Production<br>
-. 02. Blending <br>
-. 03. Networks <br>
-. 04. Knapsacks and Bin Packing <br>
-. 05. Scheduling <br>
-. 06. Project Management<br>
-. 07. Porfolios<br>
-. 08. Cutting stock<br>
-. 09. Multiperiods <br>
-. 10. Planning<br>
-. 11. Pricing<br>
-. 12. Queues<br>
-. 13. Chemical and petroleum<br>
-. 14. Mechanical<br>
-. 15. Geometric<br>
-. 16. Multiples objectives<br>
-. 17. Dynamics<br>
 
 Theses notebooks are really useful for companies management, factories management, shops management...
 
@@ -96,6 +65,42 @@ https://github.com/jwang0306/vehicle-routing-problem<br>
 09/04/2024 : I will continue both languages at the same time.
 
 02/04/2024 : Finally back on the project, Starting the old french files translations, then, I will go further with more complex optimizations, including Dynamic optimizations. Please allow a few time before I start Translating theses old notebooks from French to English, Don't know If I will translate all of variables too.
+
+# Optimizations list 
+
+
+In the following fields :
+
+<b>Management :</b><br>
+. Productivity Measurement<br>
+. Break even calculation<br>
+. Balanced scoreyard and KPI's.
+. Decisions analysis ( Uncertainty, Risk)<br>
+. Simulations<br>
+. Quality management<br>
+. Six Sigma<br>
+. Toyota methods<br>
+
+
+<b>Optimizations :</b><br>
+. 01. Production<br>
+. 02. Blending <br>
+. 03. Networks <br>
+. 04. Knapsacks and Bin Packing <br>
+. 05. Scheduling <br>
+. 06. Project Management<br>
+. 07. Porfolios<br>
+. 08. Cutting stock<br>
+. 09. Multiperiods <br>
+. 10. Planning<br>
+. 11. Pricing<br>
+. 12. Queues<br>
+. 13. Chemical and petroleum<br>
+. 14. Mechanical<br>
+. 15. Geometric<br>
+. 16. Multiples objectives<br>
+. 17. Dynamics<br>
+
 
 # Precision :
 This is not the only field I 'm working on, I also work on Python Maths probability rules, ODES ( Differential equations), and machine learning projects. I can also code a full stack app (Using Vanilla, Vue, Node.js,  Python..) and build some B.I data warehouse and any dashboard using Power B.I or even JS.
