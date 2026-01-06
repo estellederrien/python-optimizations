@@ -59,7 +59,12 @@ This can lead me to build any kind of data science app. The main thing are the m
 -> Python, Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
 # Latest news : 
-06 01 2025 : ChatGpt AI and Gemini AI will permit me to finish my ODE notebook real fast .  I also have a Abdel Yezza great Math model Machine learning recapitulative . 
+06 01 2025 : ChatGpt AI and Gemini AI will permit me to finish my ODE differentials equations notebook real fast, Most of the Supply chain metrics, Probabilities, M.L maths can now be A.I summarized, also including the python code  .  I also have a Abdel Yezza great Math model Machine learning recapitulative . A.I will also help for my 'Physical measures' directory, and Comptability as well . Gemini A.I summarize way faster than me, then I own all of the school books to verify it's ok . It leads me to create any data science app way much faster.
+
+06/01/2025 : French ChatGpt AI et Gemini AI me permettront de finaliser très rapidement mon notebook ODE d'équations différentielles . La plupart des indicateurs de la chaîne d'approvisionnement, des probabilités et des calculs d'apprentissage automatique machine learning pourront désormais être synthétisés par l'IA, y compris le code Python. Je dispose également d'une synthèse des modèles mathématique en M.L d'Abdel Yezza. L'A.I me sera également utile pour mon répertoire du BUT « mesures physiques » . Gemini AI synthétise bien plus rapidement que moi, et je possède tous les manuels scolaires nécessaires pour vérifier ses exactitudes. Cela me permettra de créer des applications de science des données beaucoup plus rapidement.
+
+
+
 
 10 01 2025 : I am back, some things like " Queues analysis " are already done as my old french notebook but not translated yet. My ideal life would be to add one new example by notebooks each days.
 
