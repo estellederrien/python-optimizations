@@ -24,7 +24,7 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 # Latest news : 
 
-01 22 2026 : I have no explanation how A.I can do such clear explanations of things, considering how obscures are books in comparison, or It has be trained on unknown docs. I think about an eventual E.T intervention.
+01 22 2026 : I have no explanation how A.I can do such clear explanations of things, considering how obscures are books in comparison, or It has be trained on unknown secrets docs. I think about an eventual E.T intervention. 
 
 01 22 2026 : Due to the great help of AI : ChatpGtp, DeepSeek, Gemini and Claude will help me do way much more faster everything, and study faster, it is a revolution for my studies notebooks .
 I still need to compare results between them, check maths models and their relationships to the python given code, but this AI technology works well.
