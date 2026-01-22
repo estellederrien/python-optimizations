@@ -24,10 +24,10 @@ When ready, I will also codes convert them to my online application : www.solvgr
 
 # Latest news : 
 
+01 22 2026 : I have no explanation how A.I can do such clear explanations of things, considering how obscures are books in comparison, or It has be trained on unknown secrets docs. I think about an eventual E.T intervention. 
+
 01 22 2026 : Due to the great help of AI : ChatpGtp, DeepSeek, Gemini and Claude will help me do way much more faster everything, and study faster, it is a revolution for my studies notebooks .
 I still need to compare results between them, check maths models and their relationships to the python given code, but this AI technology works well.
-
-08 01 2026 : Now using ChatGpt, GEmini, and CLaude to finish my notebooks and studies faster, O.R included. But I will verify and test the codes.
 
 06 01 2025 : ChatGpt AI and Gemini AI will permit me to finish my ODE differentials equations notebook real fast, Most of the Supply chain metrics, Probabilities, Monte Carlo simuations, Markov Chains, Robotics diff equations,  M.L maths, can now be instantly A.I summarized,  also including the python code.  I also have a LinkedIn Abdel Yezza great Math model Machine learning recapitulative . A.I will also help for my 'Physical measures' directory ( Electricity, resistance of materials...), and DCG Comptability as well . Gemini A.I summarize way faster than me, then I own all of the school books to verify it's ok . It leads me to create any data science app way much faster. About O.R, ChatGtp and Gemini seems to provide good codes. O.R are prescriptives maths, so that's what I prefer.
 
