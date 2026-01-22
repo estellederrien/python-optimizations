@@ -23,6 +23,10 @@ When ready, I will also codes convert them to my online application : www.solvgr
 -> Python, Python Pulp, Python Cplex, Python Pyomo, Python Gekko, Excel Solver...
 
 # Latest news : 
+
+01 22 2026 : Due to the great help of AI : ChatpGtp, DeepSeek, Gemini and Claude will help me do way much more faster everything, and study faster, it is a revolution for my studies notebooks .
+I still need to compare results between them, check maths models and their relationships to the python given code, but this AI technology works well.
+
 08 01 2026 : Now using ChatGpt, GEmini, and CLaude to finish my notebooks and studies faster, O.R included. But I will verify and test the codes.
 
 06 01 2025 : ChatGpt AI and Gemini AI will permit me to finish my ODE differentials equations notebook real fast, Most of the Supply chain metrics, Probabilities, Monte Carlo simuations, Markov Chains, Robotics diff equations,  M.L maths, can now be instantly A.I summarized,  also including the python code.  I also have a LinkedIn Abdel Yezza great Math model Machine learning recapitulative . A.I will also help for my 'Physical measures' directory ( Electricity, resistance of materials...), and DCG Comptability as well . Gemini A.I summarize way faster than me, then I own all of the school books to verify it's ok . It leads me to create any data science app way much faster. About O.R, ChatGtp and Gemini seems to provide good codes. O.R are prescriptives maths, so that's what I prefer.
@@ -139,18 +143,8 @@ Sin embargo, estoy buscando trabajo en un país hispano y podría traducir todo 
 
 Categorías de optimizaciones clásicas utilizando Cplex, Gekko, Pulp, Google o Cvxopt y el solucionador de Excel.
 
-# French
 
-06/01/2025 : French :ChatGpt AI et Gemini AI me permettront de finaliser très rapidement mon notebook ODE d'équations différentielles . La plupart des indicateurs de la chaîne d'approvisionnement, des probabilités et des calculs d'apprentissage automatique machine learning, des formules de robotique, Monte Carlo simuations, Chaines de markov, Formules en finance,  pourront désormais être synthétisées instantanément par l'IA, y compris le code Python. Je dispose également d'une synthèse des modèles mathématique en M.L de linkedin Abdel Yezza. L'A.I me sera également un peu utile pour mon répertoire du BUT « Mesures physiques » . Gemini AI synthétise bien plus rapidement que moi et fournis le code Python, et je possède tous les manuels scolaires Dunod et Fournier nécessaires pour vérifier l' exactitude. Cela me permettra de créer des applications scientifiques beaucoup plus rapidement. A propos de la recherche opérationnelle, les IA ont l'air de proposer de bons codes, je viens juste de commencer.
 
-Pour ceux aimant les optimizations non linéaires, voici un lien MAJEUR à connaitre, chez LIndo : 
-
-https://lindo.com/doc/online_help/lingo20_0/index.html?financial_models.htm
-
-FR : J'ai testé aujourd'hui pour la première fois la recherche opérationnelle avec l'IA, et ça a l'air de fonctionner. Par exemple, j'ai obtenu un code de bin packing 3D linéaire avec Pulp, le tout expliqué en français. Autre exemple : une optimisation non linéaire du volume d'un objet avec Scipy, directement fournie par Chat GPT ; et un autre encore : une planification de projet linéaire avec contraintes de précédence, toujours avec Pulp. Il a aussi l'air de générer les modèles mathématiques, donc je continue, mais en effectuer des contrôles comparatifs. CLaude a aussi l'air de fonctionner, donc je continue avec ça, en plus de mes livres , et surtout sur le non linéaire désormais. C'est pour les jobs shops et flow shops que je vais voir ce que ça fait ( Optimisations industrie). 
-
-Edit : Ca synthétise vraiment TROP bien les équations différentielles et leur code python afillié, c'est monstrueux en fait,car j'obtiens des explications simplifiées et des cas d'utilisation résolus comme ce que je voulais faire en commençant mes notebooks, sauf que là, la vitesse est + 100%, la syntaxe du notebook est incroyablement simplifiée . Je n'ai aucune explication sur quels livres ils ont pu entrainer chatGpt et Gemini pour obtenir des synthèses aussi impressionantes (cristal clear) des cas d'utilisation des équations différentielles, en effet, la plupart des livres scolaires sont souvent brumeux ou trop complexes, donc , je ne vois pas comment et sur quelles docs ils ont entrainé les A.I, je n'ai pas d'explication, c'est carrément mystérieux, ou alors, ils l'ont entrainé sur leur propre documentation, aux usa, un truc du genre.
-Prochaines étapes , 1 seul notebook pour tous les algos de machine learning, et mon répertoire " Mesures physiques ".
 
 
 
