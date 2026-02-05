@@ -6,7 +6,7 @@
 # Introduction
 
 Hello, my name is Estelle Derrien, my LinkedIn is https://www.linkedin.com/in/estelle-derrien-ro/
-I'm available for work  as a production and O.R basical engineer. I can alternativly provide some full stack devs with some data science or O.R backends ( Also with drag n drops features ..).
+I'm available for work  as a production and O.R medium level engineer. I can alternativly provide some full stack devs with some data science or O.R backends ( Also with drag n drops features ..).
 
 I am creating Mathematical optimizations engineering notebooks from my own examples or from various sources such
 as 10 books studies in English language.
